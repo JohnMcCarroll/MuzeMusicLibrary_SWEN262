@@ -1,0 +1,6 @@
+.idea/*
+/workspace.xml
+*_artists.csv
+*_releases.csv
+*_songs.csv
+*out/*
